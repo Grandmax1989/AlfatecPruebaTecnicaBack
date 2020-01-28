@@ -1,0 +1,3 @@
+com\alfatecsistemas\sina\web\RestApplicationInitializer.class
+com\alfatecsistemas\sina\config\InfrastructureConfig.class
+com\alfatecsistemas\sina\web\config\RestApplicationConfig.class
